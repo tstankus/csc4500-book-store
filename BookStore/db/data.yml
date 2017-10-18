@@ -1,0 +1,1489 @@
+
+---
+books:
+  columns:
+  - title
+  - author
+  - category
+  - pages
+  - publisher
+  - price
+  - bookID
+  records: 
+  - - 20000 Leagues Under the Sea
+    - Verne Jules
+    - novel
+    - 190
+    - "\r"
+    - 
+    - 169
+  - - Age of Discontuinity The
+    - Drucker Peter
+    - economics
+    - 178
+    - "Random House\r"
+    - 
+    - 99
+  - - Age of the Warrior The
+    - Fisk Robert
+    - history
+    - 197
+    - "\r"
+    - 
+    - 138
+  - - Age of Wrath The
+    - Eraly Abraham
+    - history
+    - 238
+    - "Penguin\r"
+    - 
+    - 15
+  - - Aghal Paghal
+    - Deshpande P L
+    - misc
+    - 212
+    - "Mauj\r"
+    - 
+    - 79
+  - - Ahe Manohar Tari
+    - Deshpande Sunita
+    - autobiography
+    - 213
+    - "Mauj\r"
+    - 
+    - 74
+  - - All the President's Men
+    - Woodward Bob
+    - history
+    - 177
+    - "Random House\r"
+    - 
+    - 71
+  - - Amulet of Samarkand The
+    - Stroud Jonathan
+    - novel
+    - 179
+    - "Random House\r"
+    - 
+    - 64
+  - - Analysis Vol I
+    - Tao Terence
+    - mathematics
+    - 248
+    - "HBA\r"
+    - 
+    - 22
+  - - Angels & Demons
+    - Brown Dan
+    - novel
+    - 178
+    - "Random House\r"
+    - 
+    - 66
+  - - Angels & Demons
+    - Brown Dan
+    - novel
+    - 170
+    - "\r"
+    - 
+    - 196
+  - - Animal Farm
+    - Orwell George
+    - classic
+    - 180
+    - "\r"
+    - 
+    - 209
+  - - Apulki
+    - Deshpande P L
+    - misc
+    - 211
+    - "\r"
+    - 
+    - 123
+  - - Argumentative Indian The
+    - Sen Amartya
+    - history
+    - 209
+    - "Picador\r"
+    - 
+    - 67
+  - - Arthashastra The
+    - Kautiyla
+    - philosophy
+    - 214
+    - "\r"
+    - 
+    - 186
+  - - Artist and the Mathematician The
+    - Aczel Amir
+    - mathematics
+    - 186
+    - "HighStakes\r"
+    - 
+    - 112
+  - - Asami Asami
+    - Deshpande P L
+    - novel
+    - 205
+    - "Mauj\r"
+    - 
+    - 47
+  - - Ashenden of The British Agent
+    - Maugham William S
+    - classic
+    - 160
+    - "Vintage\r"
+    - 
+    - 108
+  - - Attorney The
+    - ''
+    - novel
+    - 170
+    - "\r"
+    - 
+    - 198
+  - - Ayn Rand Answers
+    - Rand Ayn
+    - objectivism
+    - 203
+    - "\r"
+    - 
+    - 178
+  - - Batatyachi Chal
+    - Deshpande P L
+    - novel
+    - 200
+    - "\r"
+    - 
+    - 170
+  - - Batman Earth One
+    - ''
+    - comic
+    - 265
+    - "\r"
+    - 
+    - 142
+  - - Batman Handbook
+    - ''
+    - comic
+    - 270
+    - "\r"
+    - 
+    - 205
+  - - 'Batman: The Long Halloween'
+    - ''
+    - comic
+    - 258
+    - "\r"
+    - 
+    - 151
+  - - Beautiful and the Damned The
+    - Deb Siddhartha
+    - history
+    - 198
+    - "Penguin\r"
+    - 
+    - 27
+  - - Beyond Degrees
+    - ''
+    - education
+    - 222
+    - "HarperCollins\r"
+    - 
+    - 81
+  - - Beyond the Three Seas
+    - Dalrymple William
+    - history
+    - 197
+    - "Random House\r"
+    - 
+    - 103
+  - - Birth of a Theorem
+    - Villani Cedric
+    - mathematics
+    - 234
+    - "Bodley Head\r"
+    - 
+    - 13
+  - - Bookless in Baghdad
+    - Tharoor Shashi
+    - history
+    - 206
+    - "Penguin\r"
+    - 
+    - 92
+  - - Brethren The
+    - Grisham John
+    - novel
+    - 174
+    - "Random House\r"
+    - 
+    - 51
+  - - Broca's Brain
+    - Sagan Carl
+    - physics
+    - 174
+    - "\r"
+    - 
+    - 182
+  - - Burning Bright
+    - Steinbeck John
+    - classic
+    - 175
+    - "Penguin\r"
+    - 
+    - 98
+  - - Case of the Lame Canary The
+    - Gardner Earle Stanley
+    - novel
+    - 179
+    - "\r"
+    - 
+    - 93
+  - - Catch 22
+    - Heller Joseph
+    - classic
+    - 178
+    - "Random House\r"
+    - 
+    - 53
+  - - Cathedral and the Bazaar The
+    - Raymond Eric
+    - computer_science
+    - 217
+    - "\r"
+    - 
+    - 174
+  - - Char Shabda
+    - Deshpande P L
+    - misc
+    - 214
+    - "\r"
+    - 
+    - 127
+  - - Christmas Carol A
+    - Dickens Charles
+    - classic
+    - 196
+    - "\r"
+    - 
+    - 211
+  - - City of Djinns
+    - Dalrymple William
+    - history
+    - 198
+    - "\r"
+    - 
+    - 192
+  - - City of Joy The
+    - Lapierre Dominique
+    - novel
+    - 177
+    - "vikas\r"
+    - 
+    - 87
+  - - Clash of Civilizations and Remaking of the World Order
+    - Huntington Samuel
+    - history
+    - 228
+    - "Simon&Schuster\r"
+    - 
+    - 116
+  - - Code Book The
+    - Singh Simon
+    - mathematics
+    - 197
+    - "\r"
+    - 
+    - 137
+  - - Complete Mastermind The
+    - BBC
+    - trivia
+    - 178
+    - "BBC\r"
+    - 
+    - 54
+  - - Complete Sherlock Holmes The - Vol I
+    - Doyle Arthur Conan
+    - classic
+    - 176
+    - "Random House\r"
+    - 
+    - 29
+  - - Complete Sherlock Holmes The - Vol II
+    - Doyle Arthur Conan
+    - classic
+    - 176
+    - "Random House\r"
+    - 
+    - 30
+  - - Computer Vision A Modern Approach
+    - Forsyth David
+    - signal_processing
+    - 255
+    - "Pearson\r"
+    - 
+    - 61
+  - - Courtroom Genius The
+    - Sorabjee
+    - autobiography
+    - 217
+    - "\r"
+    - 
+    - 189
+  - - Crime and Punishment
+    - Dostoevsky Fyodor
+    - classic
+    - 180
+    - "Penguin\r"
+    - 
+    - 65
+  - - Crisis on Infinite Earths
+    - ''
+    - comic
+    - 258
+    - "\r"
+    - 
+    - 143
+  - - Data Analysis with Open Source Tools
+    - Janert Phillip
+    - data_science
+    - 230
+    - "\r"
+    - 
+    - 181
+  - - Data Mining Handbook
+    - Nisbet Robert
+    - data_science
+    - 242
+    - "Apress\r"
+    - 
+    - 18
+  - - Data Scientists at Work
+    - Sebastian Gutierrez
+    - data_science
+    - 230
+    - "Apress\r"
+    - 
+    - 11
+  - - Data Smart
+    - Foreman John
+    - data_science
+    - 235
+    - "Wiley\r"
+    - 
+    - 2
+  - - Data Structures Using C & C++
+    - Tanenbaum Andrew
+    - computer_science
+    - 235
+    - "Prentice Hall\r"
+    - 
+    - 60
+  - - Death of Superman The
+    - ''
+    - comic
+    - 258
+    - "\r"
+    - 
+    - 149
+  - - Deceiver The
+    - Forsyth Frederick
+    - novel
+    - 178
+    - "\r"
+    - 
+    - 125
+  - - Design with OpAmps
+    - Franco Sergio
+    - computer_science
+    - 240
+    - "\r"
+    - 
+    - 175
+  - - Devil's Advocate The
+    - West Morris
+    - novel
+    - 178
+    - "\r"
+    - 
+    - 177
+  - - Discovery of India The
+    - Nehru Jawaharlal
+    - history
+    - 230
+    - "\r"
+    - 
+    - 122
+  - - Doctor in the Nude
+    - Gordon Richard
+    - novel
+    - 179
+    - "Penguin\r"
+    - 
+    - 100
+  - - Doctor on the Brain
+    - Gordon Richard
+    - novel
+    - 204
+    - "\r"
+    - 
+    - 133
+  - - Dongri to Dubai
+    - Zaidi Hussain
+    - history
+    - 216
+    - "\r"
+    - 
+    - 190
+  - - Down and Out in Paris & London
+    - Orwell George
+    - autobiography
+    - 179
+    - "Penguin\r"
+    - 
+    - 101
+  - - Drunkard's Walk The
+    - Mlodinow Leonard
+    - mathematics
+    - 197
+    - "Penguin\r"
+    - 
+    - 8
+  - - Dylan on Dylan
+    - Dylan Bob
+    - autobiography
+    - 197
+    - "Random House\r"
+    - 
+    - 55
+  - - Econometric Analysis
+    - Greene W. H.
+    - economics
+    - 242
+    - "Pearson\r"
+    - 
+    - 58
+  - - Electric Universe
+    - Bodanis David
+    - physics
+    - 201
+    - "Penguin\r"
+    - 
+    - 96
+  - - Elements of Information Theory
+    - Thomas Joy
+    - signal_processing
+    - 229
+    - "\r"
+    - 
+    - 155
+  - - Empire of the Mughal - Brothers at War
+    - Rutherford Alex
+    - history
+    - 180
+    - "\r"
+    - 
+    - 163
+  - - Empire of the Mughal - Raiders from the North
+    - Rutherford Alex
+    - history
+    - 180
+    - "\r"
+    - 
+    - 166
+  - - Empire of the Mughal - Ruler of the World
+    - Rutherford Alex
+    - history
+    - 180
+    - "\r"
+    - 
+    - 164
+  - - Empire of the Mughal - The Serpent's Tooth
+    - Rutherford Alex
+    - history
+    - 180
+    - "\r"
+    - 
+    - 165
+  - - Empire of the Mughal - The Tainted Throne
+    - Rutherford Alex
+    - history
+    - 180
+    - "\r"
+    - 
+    - 162
+  - - Eyeless in Gaza
+    - Huxley Aldous
+    - novel
+    - 180
+    - "\r"
+    - 
+    - 200
+  - - False Impressions
+    - Archer Jeffery
+    - novel
+    - 177
+    - "Pan\r"
+    - 
+    - 38
+  - - Farewell to Arms A
+    - Hemingway Ernest
+    - classic
+    - 179
+    - "Rupa\r"
+    - 
+    - 36
+  - - Final Crisis
+    - ''
+    - comic
+    - 257
+    - "\r"
+    - 
+    - 139
+  - - Flashpoint
+    - ''
+    - comic
+    - 265
+    - "\r"
+    - 
+    - 141
+  - - Freakonomics
+    - Dubner Stephen
+    - economics
+    - 197
+    - "Penguin\r"
+    - 
+    - 44
+  - - Free Will
+    - Harris Sam
+    - psychology
+    - 203
+    - "FreePress\r"
+    - 
+    - 91
+  - - Freedom at Midnight
+    - Lapierre Dominique
+    - history
+    - 167
+    - "vikas\r"
+    - 
+    - 88
+  - - From Beirut to Jerusalem
+    - Friedman Thomas
+    - history
+    - 202
+    - "\r"
+    - 
+    - 136
+  - - Fundamentals of Wavelets
+    - Goswami Jaideva
+    - signal_processing
+    - 228
+    - "Wiley\r"
+    - 
+    - 1
+  - - Girl who kicked the Hornet's Nest
+    - Larsson Steig
+    - novel
+    - 179
+    - "\r"
+    - 
+    - 203
+  - - Girl who played with Fire
+    - Larsson Steig
+    - novel
+    - 179
+    - "\r"
+    - 
+    - 204
+  - - Girl with the Dragon Tattoo
+    - Larsson Steig
+    - novel
+    - 179
+    - "\r"
+    - 
+    - 202
+  - - God Created the Integers
+    - Hawking Stephen
+    - mathematics
+    - 197
+    - "Penguin\r"
+    - 
+    - 3
+  - - Grapes of Wrath The
+    - Steinbeck John
+    - classic
+    - 196
+    - "\r"
+    - 
+    - 159
+  - - Great Indian Novel The
+    - Tharoor Shashi
+    - novel
+    - 198
+    - "Penguin\r"
+    - 
+    - 85
+  - - Great War for Civilization The
+    - Fisk Robert
+    - history
+    - 197
+    - "HarperCollins\r"
+    - 
+    - 110
+  - - Gun Gayin Awadi
+    - Deshpande P L
+    - misc
+    - 212
+    - "Mauj\r"
+    - 
+    - 78
+  - - Hafasavnuk
+    - Deshpande P L
+    - novel
+    - 211
+    - "\r"
+    - 
+    - 171
+  - - Half A Life
+    - Naipaul V S
+    - novel
+    - 196
+    - "\r"
+    - 
+    - 121
+  - - Hidden Connections The
+    - Capra Fritjof
+    - physics
+    - 197
+    - "HarperCollins\r"
+    - 
+    - 45
+  - - History of England Foundation
+    - Ackroyd Peter
+    - history
+    - 197
+    - "\r"
+    - 
+    - 191
+  - - History of the DC Universe
+    - ''
+    - comic
+    - 258
+    - "\r"
+    - 
+    - 150
+  - - History of Western Philosophy
+    - Russell Bertrand
+    - philosophy
+    - 213
+    - "Routledge\r"
+    - 
+    - 113
+  - - How to Think Like Sherlock Holmes
+    - Konnikova Maria
+    - psychology
+    - 240
+    - "Penguin\r"
+    - 
+    - 10
+  - - Hunchback of Notre Dame The
+    - Hugo Victor
+    - classic
+    - 175
+    - "Random House\r"
+    - 
+    - 97
+  - - Idea of Justice The
+    - Sen Amartya
+    - economics
+    - 212
+    - "Penguin\r"
+    - 
+    - 69
+  - - Identity & Violence
+    - Sen Amartya
+    - philosophy
+    - 219
+    - "Penguin\r"
+    - 
+    - 102
+  - - Idiot The
+    - Dostoevsky Fyodor
+    - classic
+    - 197
+    - "\r"
+    - 
+    - 210
+  - - Image Processing & Mathematical Morphology
+    - Shih Frank
+    - signal_processing
+    - 241
+    - "CRC\r"
+    - 
+    - 9
+  - - Image Processing with MATLAB
+    - Eddins Steve
+    - signal_processing
+    - 241
+    - "\r"
+    - 
+    - 208
+  - - In a Free State
+    - Naipaul V. S.
+    - novel
+    - 196
+    - "Rupa\r"
+    - 
+    - 52
+  - - India from Midnight to Milennium
+    - Tharoor Shashi
+    - history
+    - 198
+    - "Penguin\r"
+    - 
+    - 83
+  - - India's Legal System
+    - Nariman
+    - legal
+    - 177
+    - "\r"
+    - 
+    - 193
+  - - Information The
+    - Gleick James
+    - mathematics
+    - 233
+    - "\r"
+    - 
+    - 153
+  - - Integration of the Indian States
+    - Menon V P
+    - history
+    - 217
+    - "Orient Blackswan\r"
+    - 
+    - 7
+  - - Introduction to Algorithms
+    - Cormen Thomas
+    - computer_science
+    - 234
+    - "MIT Press\r"
+    - 
+    - 26
+  - - Jim Corbett Omnibus
+    - Corbett Jim
+    - history
+    - 223
+    - "\r"
+    - 
+    - 168
+  - - Journal of a Novel
+    - Steinbeck John
+    - classic
+    - 196
+    - "Penguin\r"
+    - 
+    - 48
+  - - Journal of Economics vol 106 No 3
+    - ''
+    - economics
+    - 235
+    - "\r"
+    - 
+    - 154
+  - - Judge The
+    - ''
+    - novel
+    - 170
+    - "\r"
+    - 
+    - 197
+  - - Jurassic Park
+    - Crichton Michael
+    - novel
+    - 174
+    - "Random House\r"
+    - 
+    - 41
+  - - Justice Judiciary and Democracy
+    - Ranjan Sudhanshu
+    - legal
+    - 224
+    - "\r"
+    - 
+    - 185
+  - - 'Justice League: The Villain''s Journey'
+    - ''
+    - comic
+    - 258
+    - "\r"
+    - 
+    - 148
+  - - 'Justice League: Throne of Atlantis'
+    - ''
+    - comic
+    - 258
+    - "\r"
+    - 
+    - 147
+  - - Karl Marx Biography
+    - ''
+    - autobiography
+    - 162
+    - "\r"
+    - 
+    - 119
+  - - Killing Joke The
+    - ''
+    - comic
+    - 283
+    - "\r"
+    - 
+    - 140
+  - - Last Lecture The
+    - Pausch Randy
+    - autobiography
+    - 197
+    - "Hyperion\r"
+    - 
+    - 39
+  - - Last Mughal The
+    - Dalrymple William
+    - history
+    - 199
+    - "Penguin\r"
+    - 
+    - 75
+  - - Learning OpenCV
+    - Bradsky Gary
+    - signal_processing
+    - 232
+    - "O'Reilly\r"
+    - 
+    - 59
+  - - Let Us C
+    - Kanetkar Yashwant
+    - computer_science
+    - 213
+    - "Prentice Hall\r"
+    - 
+    - 63
+  - - Life in Letters A
+    - Steinbeck John
+    - autobiography
+    - 196
+    - "\r"
+    - 
+    - 152
+  - - Machine Learning for Hackers
+    - Conway Drew
+    - data_science
+    - 233
+    - "O'Reilly\r"
+    - 
+    - 23
+  - - Making Software
+    - Oram Andy
+    - computer_science
+    - 232
+    - "O'Reilly\r"
+    - 
+    - 21
+  - - Manasa
+    - Kale V P
+    - misc
+    - 213
+    - "Mauj\r"
+    - 
+    - 82
+  - - Maqta-e-Ghalib
+    - Garg Sanjay
+    - poetry
+    - 221
+    - "Mauj\r"
+    - 
+    - 80
+  - - Maugham's Collected Short Stories Vol 3
+    - Maugham William S
+    - classic
+    - 171
+    - "Vintage\r"
+    - 
+    - 106
+  - - Mein Kampf
+    - Hitler Adolf
+    - autobiography
+    - 212
+    - "Rupa\r"
+    - 
+    - 33
+  - - Men of Mathematics
+    - Bell E T
+    - mathematics
+    - 217
+    - "\r"
+    - 
+    - 183
+  - - Moon and Sixpence The
+    - Maugham William S
+    - classic
+    - 180
+    - "\r"
+    - 
+    - 129
+  - - Moon is Down The
+    - Steinbeck John
+    - classic
+    - 196
+    - "Penguin\r"
+    - 
+    - 50
+  - - More Tears to Cry
+    - Sassoon Jean
+    - novel
+    - 235
+    - "\r"
+    - 
+    - 194
+  - - Mossad
+    - Baz-Zohar Michael
+    - history
+    - 236
+    - "\r"
+    - 
+    - 167
+  - - Murphy's Law
+    - ''
+    - psychology
+    - 178
+    - "\r"
+    - 
+    - 206
+  - - Nature of Statistical Learning Theory The
+    - Vapnik Vladimir
+    - data_science
+    - 230
+    - "Springer\r"
+    - 
+    - 6
+  - - Neural Networks
+    - Haykin Simon
+    - data_science
+    - 240
+    - "\r"
+    - 
+    - 158
+  - - New Machiavelli The
+    - Wells H. G.
+    - novel
+    - 180
+    - "Penguin\r"
+    - 
+    - 19
+  - - New Markets & Other Essays
+    - Drucker Peter
+    - economics
+    - 176
+    - "Penguin\r"
+    - 
+    - 95
+  - - Numbers Behind Numb3rs The
+    - Devlin Keith
+    - mathematics
+    - 202
+    - "\r"
+    - 
+    - 144
+  - - O Jerusalem!
+    - Lapierre Dominique
+    - history
+    - 217
+    - "vikas\r"
+    - 
+    - 86
+  - - On Education
+    - Russell Bertrand
+    - education
+    - 203
+    - "Routledge\r"
+    - 
+    - 90
+  - - Once There Was a War
+    - Steinbeck John
+    - history
+    - 196
+    - "Penguin\r"
+    - 
+    - 49
+  - - One
+    - Bach Richard
+    - autobiography
+    - 172
+    - "Dell\r"
+    - 
+    - 118
+  - - Orientalism
+    - Said Edward
+    - history
+    - 197
+    - "Penguin\r"
+    - 
+    - 5
+  - - Outsider The
+    - Camus Albert
+    - classic
+    - 198
+    - "Penguin\r"
+    - 
+    - 28
+  - - Oxford book of Modern Science Writing
+    - Dawkins Richard
+    - science
+    - 240
+    - "\r"
+    - 
+    - 184
+  - - Pattern Classification
+    - Duda Hart
+    - data_science
+    - 241
+    - "\r"
+    - 
+    - 135
+  - - Phantom of Manhattan The
+    - Forsyth Frederick
+    - classic
+    - 180
+    - "\r"
+    - 
+    - 107
+  - - 'Philosophy: Who Needs It'
+    - Rand Ayn
+    - objectivism
+    - 171
+    - "\r"
+    - 
+    - 179
+  - - Physics & Philosophy
+    - Heisenberg Werner
+    - science
+    - 197
+    - "Penguin\r"
+    - 
+    - 20
+  - - Pillars of the Earth The
+    - Follett Ken
+    - novel
+    - 176
+    - "Random House\r"
+    - 
+    - 32
+  - - Pointers in C
+    - Kanetkar Yashwant
+    - computer_science
+    - 213
+    - "\r"
+    - 
+    - 173
+  - - Political Philosophers
+    - ''
+    - politics
+    - 162
+    - "\r"
+    - 
+    - 130
+  - - Power Electronics - Mohan
+    - Mohan Ned
+    - computer_science
+    - 237
+    - "\r"
+    - 
+    - 157
+  - - Power Electronics - Rashid
+    - Rashid Muhammad
+    - computer_science
+    - 235
+    - "\r"
+    - 
+    - 156
+  - - Prince The
+    - Machiavelli
+    - classic
+    - 173
+    - "\r"
+    - 
+    - 199
+  - - Principles of Communication Systems
+    - Taub Schilling
+    - signal_processing
+    - 240
+    - "TMH\r"
+    - 
+    - 62
+  - - Prisoner of Birth A
+    - Archer Jeffery
+    - novel
+    - 176
+    - "Pan\r"
+    - 
+    - 72
+  - - Python for Data Analysis
+    - McKinney Wes
+    - data_science
+    - 233
+    - "O'Reilly\r"
+    - 
+    - 25
+  - - Radiowaril Bhashane & Shrutika
+    - Deshpande P L
+    - misc
+    - 213
+    - "Mauj\r"
+    - 
+    - 77
+  - - Raisin in the Sun A
+    - Hansberry Lorraine
+    - novel
+    - 175
+    - "Penguin\r"
+    - 
+    - 70
+  - - Rationality & Freedom
+    - Sen Amartya
+    - economics
+    - 213
+    - "Springer\r"
+    - 
+    - 115
+  - - Return of the Primitive
+    - Rand Ayn
+    - objectivism
+    - 202
+    - "Penguin\r"
+    - 
+    - 40
+  - - Ropemaker The
+    - Dickinson Peter
+    - novel
+    - 196
+    - "\r"
+    - 
+    - 195
+  - - Rosy is My Relative
+    - Durrell Gerald
+    - novel
+    - 176
+    - "\r"
+    - 
+    - 128
+  - - Russian Journal A
+    - Steinbeck John
+    - history
+    - 196
+    - "Penguin\r"
+    - 
+    - 42
+  - - Scoop!
+    - Nayar Kuldip
+    - history
+    - 216
+    - "HarperCollins\r"
+    - 
+    - 73
+  - - Sea of Poppies
+    - Ghosh Amitav
+    - novel
+    - 197
+    - "Penguin\r"
+    - 
+    - 68
+  - - Selected Short Stories
+    - ''
+    - classic
+    - 215
+    - "Jaico\r"
+    - 
+    - 114
+  - - Short History of the World A
+    - Wells H G
+    - history
+    - 197
+    - "\r"
+    - 
+    - 131
+  - - Signal and the Noise The
+    - Silver Nate
+    - data_science
+    - 233
+    - "Penguin\r"
+    - 
+    - 24
+  - - Simpsons & Their Mathematical Secrets
+    - Singh Simon
+    - mathematics
+    - 233
+    - "\r"
+    - 
+    - 134
+  - - Slaughterhouse Five
+    - Vonnegut Kurt
+    - classic
+    - 198
+    - "Random House\r"
+    - 
+    - 12
+  - - Social Choice & Welfare Vol 39 No. 1
+    - Various
+    - economics
+    - 235
+    - "Springer\r"
+    - 
+    - 76
+  - - Soft Computing & Intelligent Systems
+    - Gupta Madan
+    - data_science
+    - 242
+    - "Elsevier\r"
+    - 
+    - 56
+  - - Statistical Decision Theory'
+    - Pratt John
+    - data_science
+    - 236
+    - "MIT Press\r"
+    - 
+    - 17
+  - - Statistical Learning Theory
+    - Vapnik Vladimir
+    - data_science
+    - 228
+    - "\r"
+    - 
+    - 161
+  - - Story of Philosophy The
+    - Durant Will
+    - history
+    - 170
+    - "Pocket\r"
+    - 
+    - 46
+  - - Structure & Interpretation of Computer Programs
+    - Sussman Gerald
+    - computer_science
+    - 240
+    - "MIT Press\r"
+    - 
+    - 14
+  - - Structure and Randomness
+    - Tao Terence
+    - mathematics
+    - 252
+    - "\r"
+    - 
+    - 207
+  - - Superfreakonomics
+    - Dubner Stephen
+    - economics
+    - 179
+    - "HarperCollins\r"
+    - 
+    - 4
+  - - Superman Earth One - 1
+    - ''
+    - comic
+    - 259
+    - "\r"
+    - 
+    - 145
+  - - Superman Earth One - 2
+    - ''
+    - comic
+    - 258
+    - "\r"
+    - 
+    - 146
+  - - Surely You're Joking Mr Feynman
+    - Feynman Richard
+    - physics
+    - 198
+    - "Random House\r"
+    - 
+    - 35
+  - - Tales of Beedle the Bard
+    - Rowling J K
+    - novel
+    - 184
+    - "\r"
+    - 
+    - 201
+  - - Tales of Mystery and Imagination
+    - Poe Edgar Allen
+    - classic
+    - 172
+    - "HarperCollins\r"
+    - 
+    - 43
+  - - Talking Straight
+    - Iacoca Lee
+    - autobiography
+    - 175
+    - "\r"
+    - 
+    - 105
+  - - Tao of Physics The
+    - Capra Fritjof
+    - physics
+    - 179
+    - "Penguin\r"
+    - 
+    - 34
+  - - Textbook of Economic Theory
+    - Stonier Alfred
+    - economics
+    - 242
+    - "Pearson\r"
+    - 
+    - 57
+  - - Theory of Everything The
+    - Hawking Stephen
+    - physics
+    - 217
+    - "Jaico\r"
+    - 
+    - 94
+  - - Think Complexity
+    - Downey Allen
+    - data_science
+    - 230
+    - "\r"
+    - 
+    - 176
+  - - To Sir With Love
+    - Braithwaite
+    - classic
+    - 197
+    - "Penguin\r"
+    - 
+    - 120
+  - - Trembling of a Leaf The
+    - Maugham William S
+    - novel
+    - 205
+    - "\r"
+    - 
+    - 132
+  - - Trial The
+    - Kafka Frank
+    - classic
+    - 198
+    - "Random House\r"
+    - 
+    - 16
+  - - Uncommon Wisdom
+    - Capra Fritjof
+    - anthology
+    - 197
+    - "Fontana\r"
+    - 
+    - 117
+  - - Unpopular Essays
+    - Russell Bertrand
+    - philosophy
+    - 198
+    - "\r"
+    - 
+    - 124
+  - - Urlasurla
+    - Deshpande P L
+    - novel
+    - 211
+    - "\r"
+    - 
+    - 172
+  - - 'Veil: Secret Wars of the CIA'
+    - Woodward Bob
+    - history
+    - 171
+    - "\r"
+    - 
+    - 126
+  - - Veteran The
+    - Forsyth Frederick
+    - novel
+    - 177
+    - "Transworld\r"
+    - 
+    - 37
+  - - Vyakti ani Valli
+    - Deshpande P L
+    - misc
+    - 211
+    - "\r"
+    - 
+    - 160
+  - - We the Living
+    - Rand Ayn
+    - novel
+    - 178
+    - "Penguin\r"
+    - 
+    - 111
+  - - We the Nation
+    - Palkhivala
+    - philosophy
+    - 216
+    - "\r"
+    - 
+    - 188
+  - - We the People
+    - Palkhivala
+    - philosophy
+    - 216
+    - "\r"
+    - 
+    - 187
+  - - Wealth of Nations The
+    - Smith Adam
+    - economics
+    - 175
+    - "Random House\r"
+    - 
+    - 31
+  - - Winter of Our Discontent The
+    - Steinbeck John
+    - classic
+    - 196
+    - "Penguin\r"
+    - 
+    - 89
+  - - World's Great Thinkers The
+    - ''
+    - physics
+    - 189
+    - "\r"
+    - 
+    - 180
+  - - World's Greatest Short Stories The
+    - ''
+    - classic
+    - 217
+    - "Jaico\r"
+    - 
+    - 104
+  - - World's Greatest Trials The
+    - ''
+    - history
+    - 210
+    - "\r"
+    - 
+    - 84
+  - - Zen & The Art of Motorcycle Maintenance
+    - Pirsig Robert
+    - autobiography
+    - 172
+    - "Vintage\r"
+    - 
+    - 109

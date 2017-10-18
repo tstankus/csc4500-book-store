@@ -1,0 +1,26 @@
+<h1>Add new book</h1>
+
+<%= form_tag :action => 'create' do %>
+
+<p><label for = "book_title">Title</label>:
+<%= text_field 'books', 'title' %></p>
+
+<p><label for = "book_author">Author</label>:
+<%= text_field 'books', 'author' %></p>
+
+<p><label for = "book_category">Category</label>:
+<%= text_field 'books', 'category' %></p>
+
+<p><label for = "book_pages">Pages</label>:
+<%= text_field 'books', 'pages' %></p>
+
+<p><label for = "book_publisher">Publisher</label>:
+<%= text_field 'books', 'publisher' %></p>
+
+<p><label for = "book_price">Price</label>:
+<%= text_field 'books', 'price' %></p>
+
+<%= submit_tag "Create" %>
+
+<% end -%>
+<%= link_to 'Back', {:action => 'list'} %>

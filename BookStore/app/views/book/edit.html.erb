@@ -1,0 +1,15 @@
+<h1>Edit Book Detail</h1>
+
+<%= form_for @book, :url =>{:action => "update", :id =>@book} do |f| %>
+
+<p>Title: <%= f.text_field 'title' %></p>
+<p>Author: <%= f.text_field 'author' %></p>
+<p>Category: <%= f.text_field 'category' %></p>
+<p>Pages: <%= f.text_field 'pages' %></p>
+<p>Publisher: <%= f.text_field 'publisher' %></p>
+<p>Price: <%= f.text_field  'price' %></p>
+
+<%= f.submit "Save changes" %>
+<% end %>
+
+<%= link_to 'Back', {:action => 'list' } %>
