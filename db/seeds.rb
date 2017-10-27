@@ -1,0 +1,11 @@
+Customer.create!(firstName: 'David', lastName: 'Peck', email: 'davidPeck@gmail.com')
+Customer.create!(firstName: 'George', lastName: 'Bell', email: 'GeorgeBell@gmail.com')
+Customer.create!(firstName: 'Steven', lastName: 'Lopez', email: 'StevenLopez@yahoo.com')
+Customer.create!(firstName: 'Kevin', lastName: 'Gibson', email: 'KevinGibson@gmail.com')
+Customer.create!(firstName: 'Blake', lastName: 'Burns', email: 'TheBurns@gmail.com')
+
+Employee.create!(firstName: 'Devon', lastName: 'Wills', dateOfBirth: Date.new(1992,7,4), startDate: Date.new(2007,2,12))
+Employee.create!(firstName: 'Blaine', lastName: 'Booth', dateOfBirth: Date.new(1994,6,1), startDate: Date.new(2007,2,12))
+Employee.create!(firstName: 'Katie', lastName: 'Neal', dateOfBirth: Date.new(1982,5,7), startDate: Date.new(2007,2,12))
+Employee.create!(firstName: 'Jordan', lastName: 'Hoffman', dateOfBirth: Date.new(1993,3,9), startDate: Date.new(2010,6,11))
+Employee.create!(firstName: 'Courtney', lastName: 'Thompson', dateOfBirth: Date.new(1989,2,11), startDate: Date.new(2011,5,2))
