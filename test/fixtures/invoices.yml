@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bookID: 1
+  employeeID: 1
+  customerID: 1
+  orderID: 1
+  invoiceDate: 2017-10-25
+
+two:
+  bookID: 1
+  employeeID: 1
+  customerID: 1
+  orderID: 1
+  invoiceDate: 2017-10-25

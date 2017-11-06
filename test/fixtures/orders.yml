@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bookID: 1
+  orderDate: 2017-10-25
+
+two:
+  bookID: 1
+  orderDate: 2017-10-25
