@@ -18,8 +18,8 @@ body, h1, h2, h3, h4, h5, h6 {
   padding-top: 50px;
   padding-bottom: 50px;
   text-align: center;
-  color: #f8f8f8;
-  background: url('/assets/intro-bg.jpg'); no-repeat center center;
+  color: #2414ce;
+  background: url('/assets/BG.jpg'); no-repeat center center;
   background-size: cover;
 }
 
