@@ -8,7 +8,7 @@ books:
   - pages
   - publisher
   - price
-  - book_id
+  - id
   records: 
   - - 20000 Leagues Under the Sea
     - Verne Jules

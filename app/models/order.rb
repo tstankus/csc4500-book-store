@@ -1,3 +1,3 @@
 class Order < ApplicationRecord
-	has_one :book
+	has_many :order_items
 end
